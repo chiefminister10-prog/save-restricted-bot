@@ -21,17 +21,17 @@ logger = LOGGER(__name__)
 # ======================================================
 # Payment config (UPI only)
 # ======================================================
-UPI_ID = os.environ.get("UPI_ID", "20213904@axl")
-UPI_NAME = os.environ.get("UPI_NAME", "ModAppsKing")
+UPI_ID = os.environ.get("UPI_ID", "03854435@nyes")
+UPI_NAME = os.environ.get("UPI_NAME", "DeshrajOfficial")
 # Static fallback QR (used only if the dynamic QR cannot be generated)
 QR_CODE = os.environ.get(
     "QR_CODE",
-    "https://raw.githubusercontent.com/R0Y4L-KING/save-restricted-bot/main/assets/upi_qr.png",
+    "https://t.me/Deshraj_0fficial",
 )
 PREMIUM_BANNER = os.environ.get(
     "SUBSCRIPTION", "https://graph.org/file/242b7f1b52743938d81f1.jpg"
 )
-HELP_LINK = os.environ.get("HELP_LINK", "https://t.me/SANATANI_B0Y")
+HELP_LINK = os.environ.get("HELP_LINK", "https://t.me/Deshraj_0fficial")
 
 # ---- Prices: change only here (price / days / label) ----
 PLANS = {
