@@ -129,7 +129,7 @@ class Bot(Client):
             f"<b>Time:</b> <code>{now.strftime('%I:%M %p')} IST</code>\n"
             f"<b>Ad-gate:</b> {gate_status}\n"
             f"<b>Admins:</b> <code>{len(ADMINS)}</code> configured\n\n"
-            f"<b>Developer by @ModAppsKing</b>"
+            f"<b>Developer by @Deshraj_0fficial</b>"
         )
 
         try:
