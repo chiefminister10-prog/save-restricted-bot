@@ -1,5 +1,5 @@
-# Developed by: LastPerson07 × cantarella
-# Telegram: @cantarellabots | @THEUPDATEDGUYS
+# Developed by: DeshrajOfficial × Batchmafia 
+# Telegram: @Deshraj_0fficial | @Deshraj_0fficial
 import os
 import asyncio
 import random
@@ -34,10 +34,10 @@ SPLIT_CHUNK = 8 * 1024 * 1024
 VIDEO_EXTS = {".mp4", ".mkv", ".avi", ".webm", ".mov", ".m4v", ".flv", ".ts", ".mpg", ".mpeg", ".3gp"}
 FREE_LIMIT_DAILY = 10
 UPI_ID = os.environ.get("UPI_ID", "20213904@axl")
-QR_CODE = os.environ.get("QR_CODE", "https://raw.githubusercontent.com/R0Y4L-KING/save-restricted-bot/main/assets/upi_qr.png")
+QR_CODE = os.environ.get("QR_CODE", "https://raw.githubusercontent.com/Deshraj_0fficial/save-restricted-bot/main/assets/upi_qr.png")
 PAY_URL = os.environ.get("PAY_URL", "https://r0y4l-king.github.io/upi-pay/")
-START_PHOTO = os.environ.get("START_PHOTO", "https://raw.githubusercontent.com/R0Y4L-KING/save-restricted-bot/main/assets/start_banner.jpg")
-START_PHOTO_FALLBACK = os.environ.get("START_PHOTO_FALLBACK", "https://raw.githubusercontent.com/R0Y4L-KING/save-restricted-bot/main/assets/start_fallback.jpg")
+START_PHOTO = os.environ.get("START_PHOTO", "https://raw.githubusercontent.com/Deshraj_0fficial/save-restricted-bot/main/assets/start_banner.jpg")
+START_PHOTO_FALLBACK = os.environ.get("START_PHOTO_FALLBACK", "https://raw.githubusercontent.com/Deshraj_0fficial/save-restricted-bot/main/assets/start_fallback.jpg")
 REACTIONS = [
     "👍", "❤️", "🔥", "🥰", "👏", "😁", "🤔", "🤯", "😱", "🤬",
     "😢", "🎉", "🤩", "🤮", "💩", "🙏", "👌", "🕊", "🤡", "🥱",
@@ -50,9 +50,9 @@ REACTIONS = [
 ]
 
 
-dev_text = "👨‍💻 Mind Behind This Bot:\n• <a href='https://t.me/R0Y4L_KING'>@R0Y4L_KING</a>\n• <a href='https://t.me/SANATANI_B0Y'>@SANATANI_B0Y</a>"
+dev_text = "👨‍💻 Mind Behind This Bot:\n• <a href='Deshraj_0fficial'>@Deshraj_0fficial</a>\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>"
 expected_dev_hash = "f31332100740a94bedd793abcd69f510265cc075eead12411e88be1659ae0fb7"
-channels_text = "📢 Official Channels:\n• <a href='https://t.me/ModAppsKing'>@ModAppsKing</a>\n• <a href='https://t.me/EduAppsKing'>@EduAppsKing</a>\n\nStay updated for new features!"
+channels_text = "📢 Official Channels:\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>\n\nStay updated for new features!"
 expected_channels_hash = "aa15f609ef06478032149be1b87fac1bb3454e48aa57a91ea958c20aba397261"
 
 if (
@@ -140,7 +140,7 @@ Just send me the post link 👇
 • <code>/myplan</code> — check your plan
 • <code>/cancel</code> — stop a running task
 
-<i>Need help? Contact @SANATANI_B0Y</i>"""
+<i>Need help? Contact @Deshraj_0fficial</i>"""
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
 <blockquote><b>╭────[ 🧩 Technical Stack ]────⍟</b>
 <b>├⍟ 🤖 Bot Name : <a href=https://t.me/{bot_username}>{bot_name}</a></b>
@@ -179,7 +179,7 @@ Just send me the post link 👇
 <b>⏳ ETA:</b> <code>{eta}</code>
 </blockquote>
 """
-    CAPTION = """<b><a href="https://t.me/ModAppsKing"></a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/ModAppsKing">MODAPPSKING 😎</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Deshraj_0fficial"></a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/ModAppsKing">MODAPPSKING 😎</a></b>"""
     LIMIT_REACHED = """<b>🚫 Daily Limit Exceeded</b>
 <b>Your 10 free saves for today have been used.</b>
 <i>Quota resets automatically after 24 hours from first download.</i>
