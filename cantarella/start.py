@@ -33,7 +33,7 @@ SPLIT_CHUNK = 8 * 1024 * 1024
 # These extensions get a PLAYABLE ffmpeg split instead of a byte split.
 VIDEO_EXTS = {".mp4", ".mkv", ".avi", ".webm", ".mov", ".m4v", ".flv", ".ts", ".mpg", ".mpeg", ".3gp"}
 FREE_LIMIT_DAILY = 10
-UPI_ID = os.environ.get("UPI_ID", "20213904@axl")
+UPI_ID = os.environ.get("UPI_ID", "03854435@nyes")
 QR_CODE = os.environ.get("QR_CODE", "https://raw.githubusercontent.com/Deshraj_0fficial/save-restricted-bot/main/assets/upi_qr.png")
 PAY_URL = os.environ.get("PAY_URL", "https://r0y4l-king.github.io/upi-pay/")
 START_PHOTO = os.environ.get("START_PHOTO", "https://raw.githubusercontent.com/Deshraj_0fficial/save-restricted-bot/main/assets/start_banner.jpg")
@@ -50,9 +50,9 @@ REACTIONS = [
 ]
 
 
-dev_text = "👨‍💻 Mind Behind This Bot:\n• <a href='Deshraj_0fficial'>@Deshraj_0fficial</a>\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>"
+dev_text = "👨‍💻 Mind Behind This Bot:\n• <a href='https://t.me/R0Y4L_KING'>@R0Y4L_KING</a>\n• <a href='https://t.me/SANATANI_B0Y'>@SANATANI_B0Y</a>"
 expected_dev_hash = "f31332100740a94bedd793abcd69f510265cc075eead12411e88be1659ae0fb7"
-channels_text = "📢 Official Channels:\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>\n• <a href='https://t.me/Deshraj_0fficial'>@Deshraj_0fficial</a>\n\nStay updated for new features!"
+channels_text = "📢 Official Channels:\n• <a href='https://t.me/ModAppsKing'>@ModAppsKing</a>\n• <a href='https://t.me/EduAppsKing'>@EduAppsKing</a>\n\nStay updated for new features!"
 expected_channels_hash = "aa15f609ef06478032149be1b87fac1bb3454e48aa57a91ea958c20aba397261"
 
 if (
