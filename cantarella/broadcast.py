@@ -1,6 +1,6 @@
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 
 
 
@@ -83,7 +83,7 @@ async def broadcast_command(bot: Client, message: Message):
             done += 1
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 
             if done % 20 == 0:
                 await sts.edit(
@@ -166,9 +166,9 @@ async def users_count(bot: Client, message: Message):
 
 
 # Credits
-# Developer Telegram: @cantarellabots
-# Update channel: @cantarellabots
+# Developer Telegram: @Deshraj_0fficial
+# Update channel: @Deshraj_0fficial
 
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
