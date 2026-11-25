@@ -1,6 +1,6 @@
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -25,7 +25,7 @@ async def rem_del_word(client: Client, message: Message):
     await message.reply_text(f"**Removed {len(words)} words from delete list.**")
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 
 @Client.on_message(filters.command("set_repl_word") & filters.private)
 async def set_repl_word(client: Client, message: Message):
@@ -50,4 +50,4 @@ async def rem_repl_word(client: Client, message: Message):
 
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
