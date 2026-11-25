@@ -1,10 +1,10 @@
 # ========================================================
 # cantarella
 # Don't Remove Credit 🥺
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 #
 # Maintained & Updated by:
-# Dhanpal Sharma
+# Deshraj Rawat
 # GitHub: https://github.com/LastPerson07
 # ========================================================
 
@@ -37,8 +37,8 @@ CMD ["python3", "bot.py"]
 # ========================================================
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @Deshraj_0fficial
 #
 # Updated & Managed by:
-# Dhanpal Sharma | https://github.com/LastPerson07
+# Deshraj Rawat | https://github.com/LastPerson07
 # ========================================================
